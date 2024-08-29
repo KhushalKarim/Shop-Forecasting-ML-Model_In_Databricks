@@ -1,4 +1,4 @@
-# Shop-Forecasting-ML-Model_In_Databricks
+# Shop-Forecasting-ML-Model_In_Pyspark
 
 Shopping online has become incredibly convenient, allowing us to purchase products with a single click and have them delivered right to our doorsteps. The e-commerce industry has evolved significantly in recent years, simplifying our lives. However, behind the scenes, e-commerce companies face a complex set of challenges that must be addressed.
 
