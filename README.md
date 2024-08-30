@@ -5,3 +5,5 @@ Shopping online has become incredibly convenient, allowing us to purchase produc
 Uncertainty is a major factor affecting how supply chains plan and organize their operations to ensure timely product delivery. This uncertainty can result in issues such as stockouts, delayed shipments, and higher operational costs.
 
 As a member of the Sales & Operations Planning (S&OP) team at a global e-commerce company, you are tasked with assisting in the planning for the upcoming end-of-year sales. Your role is crucial in leveraging your insights to plan promotional activities and manage inventory effectively. This ensures that the company maintains adequate stock levels and provides prompt delivery, enhancing customer satisfaction.
+
+link to dataset: https://drive.google.com/file/d/1YI3mYDq7xaWUOC4T9XxGDYzoUQQ_Y4sp/view?usp=drive_link
